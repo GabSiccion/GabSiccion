@@ -1,12 +1,11 @@
 ## Hey there 👋
 
-Hi, I'm Gabriel Noel Siccion
+Hi, I'm Gabriel Noel Siccion I consider myself as front-end web developer who specialize in HTML, CSS, and Javascript. Currently my aim is to expand my knowledge of back-end web development to advance my career to be a full-stack developer.
 
-### 📫 Contact me through my email
+#### 📫 Contact me through my email
 
-**GabSiccion@outlook.com**
+> **GabSiccion@outlook.com**
 
-<br>
 <br>
 
 ## :wrench: Languages and tools
@@ -25,15 +24,15 @@ Hi, I'm Gabriel Noel Siccion
 <br>
 <br>
 <br>
-<br>
 
-## 🔭 Projects I'm currently working on.
+## 🔭 Project I'm currently working on.
 
-### [Course Explorer]() <br>
+### [Course Explorer](https://github.com/GabSiccion/CourseExplorer) <br>
 
-### [Course Explorer Editor]() <br>
+Course Explorer is the product of our research thesis. It aims to inform students the course offerings of De La Salle University - Dasmarinas.
 
-<br>
+Currently Course Explorer features 2 courses, IT and CS each of them contains 2 tracks with 8 subject topics. A Quiz game for all courses, provides a recommendation to which track student should take depending on the score.
+
 <br>
 
 ## 🌱 Things I’m currently learning
@@ -42,18 +41,3 @@ Hi, I'm Gabriel Noel Siccion
 - React
 - Node.js
 - MVC Architecture
-
-<!--
-**GabSiccion/GabSiccion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
