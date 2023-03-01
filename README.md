@@ -33,6 +33,8 @@ Course Explorer is the product of our research thesis. It aims to inform student
 
 Currently Course Explorer features 2 courses, IT and CS each of them contains 2 tracks with 8 subject topics. A Quiz game for all courses, provides a recommendation to which track student should take depending on the score.
 
+##### [Press me to visit the live website of Course Explorer](https://gabsiccion.github.io/)
+
 <br>
 
 ## 🌱 Things I’m currently learning
