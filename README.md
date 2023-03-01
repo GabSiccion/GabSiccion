@@ -9,7 +9,7 @@ Hi, I'm Gabriel Noel Siccion
 <br>
 <br>
 
-# :wrench: Languages and tools
+## :wrench: Languages and tools
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"" style="padding-right:10px;" />
@@ -27,16 +27,16 @@ Hi, I'm Gabriel Noel Siccion
 <br>
 <br>
 
-# 🔭 Projects I'm currently working on.
+## 🔭 Projects I'm currently working on.
 
-## [Course Explorer]() <br>
+### [Course Explorer]() <br>
 
-## [Course Explorer Editor]() <br>
+### [Course Explorer Editor]() <br>
 
 <br>
 <br>
 
-# 🌱 Things I’m currently learning
+## 🌱 Things I’m currently learning
 
 - Tailwind CSS
 - React
