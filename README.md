@@ -1,11 +1,15 @@
-### Hey there 👋
+## Hey there 👋
 
-Hi, I'm Gabriel Siccion
+Hi, I'm Gabriel Noel Siccion
 
-**📫 Contact me through my email**
-GabSiccion@outlook.com
+### 📫 Contact me through my email
 
-### :wrench: Languages and tools
+**GabSiccion@outlook.com**
+
+<br>
+<br>
+
+# :wrench: Languages and tools
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"" style="padding-right:10px;" />
@@ -20,13 +24,19 @@ GabSiccion@outlook.com
 
 <br>
 <br>
+<br>
+<br>
 
-### 🔭 Projects I'm currently working on.
+# 🔭 Projects I'm currently working on.
 
-[Course Explorer]()
-[Course Explorer Editor]()
+## [Course Explorer]() <br>
 
-### 🌱 Things I’m currently learning
+## [Course Explorer Editor]() <br>
+
+<br>
+<br>
+
+# 🌱 Things I’m currently learning
 
 - Tailwind CSS
 - React
