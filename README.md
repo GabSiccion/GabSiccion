@@ -32,7 +32,7 @@ Hi, I'm Gabriel Noel Siccion I consider myself as front-end web developer who sp
 
 Course Explorer is the product of our research thesis. It aims to inform students the course offerings of De La Salle University - Dasmarinas.
 
-Currently Course Explorer features 2 courses, IT and CS each of them contains 2 tracks with 8 subject topics. A Quiz game for all courses, provides a recommendation to which track student should take depending on the score.
+Currently Course Explorer features 2 courses, IT and CS. Each of them contains 2 tracks with 8 subjects that showcases the curriculum of the courses. A Quiz game for all courses, provides a recommendation to which track student should take depending on the score.
 
 ##### [Press me to visit the live website of Course Explorer](https://gabsiccion.github.io/)
 
