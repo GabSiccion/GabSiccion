@@ -2,9 +2,10 @@
 
 Hi, I'm Gabriel Noel Siccion I consider myself as front-end web developer who specialize in HTML, CSS, and Javascript. Currently my aim is to expand my knowledge of back-end web development to advance my career to be a full-stack developer.
 
-#### 📫 Contact me through my email
+#### 📫 Contact me through my emails
 
 > **GabSiccion@outlook.com**
+> **Gab@exaweb.com.ph
 
 <br>
 
@@ -35,6 +36,8 @@ Hi, I'm Gabriel Noel Siccion I consider myself as front-end web developer who sp
 Course Explorer is the product of our research thesis. It aims to inform students the course offerings of De La Salle University - Dasmarinas.
 
 Currently Course Explorer features 2 courses, IT and CS. Each of them contains 2 tracks with 8 subjects that showcases the curriculum of the courses. A Quiz game for all courses, provides a recommendation to which track student should take depending on the score.
+
+Currently in the process of remaking to use React JS framework and additionaly transfer it to another hosting service.
 
 ##### [Press me to visit the live website of Course Explorer](https://gabsiccion.github.io/)
 
