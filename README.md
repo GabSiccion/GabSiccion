@@ -12,7 +12,7 @@ Hi, I'm Gabriel Noel Siccion I consider myself as front-end web developer who sp
 ## :wrench: Languages and tools
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
@@ -23,8 +23,10 @@ Hi, I'm Gabriel Noel Siccion I consider myself as front-end web developer who sp
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;"/>
-          
+<br>
+<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/>
+<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
 
 <br>
 <br>
@@ -47,5 +49,4 @@ Currently in the process of remaking to use React JS framework and additionaly t
 ## 🌱 Things I’m currently learning
 
 - Tailwind CSS
-- Node.js
 - MVC Architecture
